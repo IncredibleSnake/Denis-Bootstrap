@@ -1,0 +1,90 @@
+body {
+  background-color: grey;
+}
+
+.headtext {
+  position: relative;
+}
+
+.obj-hd2 {
+  padding: 10px;
+  font-size: 3em;
+}
+
+#grad {
+  position: relative;
+}
+
+#obj-it {
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#cards {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+}
+
+#bt {
+  font-weight: lighter;
+  font-size: 30px;
+  border-radius: 50px;
+  background-color: green;
+  border: none;
+  margin-top: 20px;
+  padding: 0 15px;
+}
+
+#mini1 {
+  width: 35%;
+}
+
+#mini2 {
+  width: 35%;
+}
+
+#con {
+  display: flex;
+  align-items: center;
+  padding-bottom: 20px;
+}
+
+#cont {
+  display: flex;
+  align-items: center;
+  padding-bottom: 20px;
+}
+
+#map {
+  margin: 20px;
+  border-radius: 30px;
+}
+
+#obj-hd1 {
+  padding: 10px;
+  font-size: 4em;
+}
+
+#obj {
+  background-color: white;
+  border-radius: 20px;
+  padding-bottom: 1px;
+}
+
+#contact {
+  text-align: right;
+  margin-top: 50px;
+  display: flex;
+  height: 50vh;
+  background-color: white;
+  border-radius: 20px;
+  padding-bottom: 1px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#cxt {
+  margin-right: 5px;
+}
